@@ -1,4 +1,4 @@
-#ACCOUNT BOT | FHTEAMID
+## ACCOUNT BOT | FHTEAMID
 
 ![Riripii github stats](https://github-readme-stats.vercel.app/api?username=Riripii&show_icons=true)
 
