@@ -13,7 +13,7 @@
 
 ___
 
-![My card name](https://cardivo.vercel.app/api?name=Ririt%20-FRHN&description=Hi,%20im%2013%20yo%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/85088379?v=4&backgroundColor=%23ecf0f1&instagram=Riripii&linkedin=Riripii&github=FHTEAMID&twitter=Ririt&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Ririt%20-FRHN&description=Hi,%20im%2014%20yo%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/85088379?v=4&backgroundColor=%23ecf0f1&instagram=Riripii&linkedin=Riripii&github=FHTEAMID&twitter=Ririt&pattern=leaf&colorPattern=%23eaeaea)
 
 ![Riripii github stats](https://github-readme-stats.vercel.app/api?username=Riripii&show_icons=true)
 
