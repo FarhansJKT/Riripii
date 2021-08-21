@@ -1,4 +1,8 @@
+
 <p align="center">
+
+  <img src="https://camo.githubusercontent.com/6c462df7a80f58974ae914a49f0bdf532d7cefb7fe1027307f38e79d93dc044c/68747470733a2f2f7468756d62732e6766796361742e636f6d2f476f6f646e617475726564466f6e64476175722d73697a655f726573747269637465642e676966" height="30>
+  <br>
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
   <img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=e34f26" />
